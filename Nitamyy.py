@@ -8,7 +8,7 @@ import polyline
 import urllib.parse
 
 # 1. Configuración de la App
-st.set_page_config(page_title="Logística Iztapalapa Pro", layout="wide")
+st.set_page_config(page_title="Optimización Logística", layout="wide")
 
 # 2. Conexión Segura (Busca la API KEY en Secrets)
 if "MAPS_API_KEY" not in st.secrets:
