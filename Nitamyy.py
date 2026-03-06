@@ -27,7 +27,7 @@ flota = [
     {"nombre": "CHEVROLET TORNADO", "capacidad": 650, "costo": 1.70}
 ]
 
-st.title("🚚 Optimizador de Rutas Iztapalapa Pro")
+st.title("🚚 Optimizador de Rutas")
 
 # --- BARRA LATERAL: CONFIGURACIÓN ---
 with st.sidebar:
